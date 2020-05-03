@@ -28,4 +28,5 @@ highlight PreProc ctermfg=129 guifg=#af00ff
 highlight Error ctermfg=7 ctermbg=197 guifg=#c0c0c0 guibg=#ff005f
 highlight Todo ctermfg=190 ctermbg=105 guifg=#d7ff00 guibg=#8787ff
 highlight vimHighlight ctermfg=124 guifg=#af0000
+highlight LineNr ctermfg=105 guifg=#8787ff
 "TODO hh
